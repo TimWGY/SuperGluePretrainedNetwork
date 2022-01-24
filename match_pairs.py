@@ -68,13 +68,13 @@ if __name__ == '__main__':
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
     parser.add_argument(
-        '--input_pairs', type=str, default='assets/scannet_sample_pairs_with_gt.txt',
+        '--input_pairs', type=str, default='assets/image_pairs_to_match.txt',
         help='Path to the list of image pairs')
     parser.add_argument(
-        '--input_dir', type=str, default='assets/scannet_sample_images/',
+        '--input_dir', type=str, default='assets/images/',
         help='Path to the directory that contains the images')
     parser.add_argument(
-        '--output_dir', type=str, default='dump_match_pairs/',
+        '--output_dir', type=str, default='image_pairs_match_results/',
         help='Path to the directory in which the .npz results and optionally,'
              'the visualization images are written')
 
