@@ -1,6 +1,0 @@
-21050_ungeoref_1.jpg 21050_georef.jpg 0 0 
-21050_ungeoref_2.jpg 21050_georef.jpg 0 0 
-21050_ungeoref_3.jpg 21050_georef.jpg 0 0 
-21050_ungeoref_4.jpg 21050_georef.jpg 0 0 
-7172_ungeoref.jpg 7172_georef.jpg 0 0 
-11696_ungeoref.jpg 11696_georef.jpg 0 0 
